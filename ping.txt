@@ -1,1 +1,1 @@
-c=231 k=5 sim=0 ok=0 last=- scn=0 hunt=FAIL_CLOSED safe=1 why=SAFETY_OK t=2026-10-11T07:29:25.456Z
+c=231 k=6 sim=0 ok=0 last=- scn=0 hunt=FAIL_CLOSED safe=1 why=CODE t=2026-10-11T07:33:25.798Z
