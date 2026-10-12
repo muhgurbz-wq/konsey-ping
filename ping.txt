@@ -1,1 +1,1 @@
-c=255 k=20 sim=0 ok=0 last=- scn=0 hunt=FAIL_CLOSED safe=1 why=HUNTER_FAIL_CLOSED t=2026-10-12T18:47:42.927Z
+c=255 k=20 sim=0 ok=0 last=- scn=0 hunt=FAIL_CLOSED safe=0 why=SAFETY_BREACH t=2026-10-12T18:47:59.065Z
