@@ -1,1 +1,1 @@
-c=255 k=20 sim=215 ok=0 last=STRICT_SNAPSHOT_BUSY scn=0 hunt=FAIL_CLOSED safe=1 why=SIM t=2026-10-12T20:33:26.326Z
+c=255 k=20 sim=216 ok=0 last=SIM_FAIL scn=0 hunt=FAIL_CLOSED safe=1 why=SIM t=2026-10-12T20:38:30.919Z
