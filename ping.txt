@@ -1,1 +1,1 @@
-c=255 k=20 sim=55 ok=0 last=SIM_FAIL scn=0 hunt=FAIL_CLOSED safe=1 why=SIM t=2026-10-12T19:52:52.708Z
+c=255 k=20 sim=73 ok=0 last=SIM_FAIL scn=0 hunt=FAIL_CLOSED safe=1 why=SIM t=2026-10-12T19:57:58.550Z
