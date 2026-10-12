@@ -1,1 +1,1 @@
-c=254 k=19 sim=0 ok=0 last=- scn=0 hunt=FAIL_CLOSED safe=1 why=SAFETY_OK t=2026-10-12T18:36:21.114Z
+c=254 k=19 sim=0 ok=0 last=- scn=0 hunt=WATCHING safe=1 why=HUNTER_WATCHING t=2026-10-12T18:36:33.119Z
