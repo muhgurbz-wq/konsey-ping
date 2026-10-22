@@ -1,1 +1,1 @@
-c=286 k=59 sim=0 ok=0 last=- scn=0 hunt=WATCHING safe=1 why=HUNTER_WATCHING t=2026-10-19T12:40:20.895Z
+c=286 k=63 sim=0 ok=0 last=- scn=0 hunt=STARTING_WINDOW safe=1 why=HUNTER_STARTING_WINDOW t=2026-10-22T19:40:06.583Z
