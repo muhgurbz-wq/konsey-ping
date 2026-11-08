@@ -1,1 +1,1 @@
-c=302 k=63 sim=297 ok=0 last=SIM_FAIL scn=0 hunt=WATCHING safe=1 why=SIM t=2026-11-08T23:00:13.837Z
+c=302 k=63 sim=302 ok=0 last=SIM_FAIL scn=0 hunt=WATCHING safe=1 why=SIM t=2026-11-08T23:24:36.213Z
